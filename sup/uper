@@ -1,0 +1,14 @@
+int main(void)
+{
+    char miString[] = "Hola Mundo!";
+    printf("Original: %s\n", miString);
+    ft_strupcase(miString);
+    printf("Mayúsculas: %s\n", miString);
+    return 0;
+
+}
+
+
+esto sirve cuando la funcion upercase es devuelve void habria que aprender a ejecutarla desde main para el caso en el que devuelve un char * 
+
+

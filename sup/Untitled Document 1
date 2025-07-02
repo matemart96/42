@@ -1,0 +1,7 @@
+       -fstype type
+              File  is  on  a  filesystem  of type type.  The valid filesystem
+              types vary among different versions of Unix; an incomplete  list
+              of filesystem types that are accepted on some version of Unix or
+              another is: ufs, 4.2, 4.3, nfs, tmp, mfs, S51K, S52K.   You  can
+              use  -printf  with  the  %F  directive  to see the types of your
+              filesystems.
